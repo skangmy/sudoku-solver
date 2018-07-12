@@ -1,0 +1,8 @@
+com\optimapp\core\RosterModel.class
+com\optimapp\core\RosterModel$Day.class
+com\optimapp\core\Roster.class
+com\optimapp\core\Employee.class
+com\optimapp\core\RosterEmployee.class
+com\optimapp\core\RosterModel$DayAssignment.class
+com\optimapp\core\RosterEmployeeDay.class
+com\optimapp\core\RosterDay.class
